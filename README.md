@@ -9,4 +9,5 @@
 ![cyber_threat_classification_presentation2 pptx (7)](https://github.com/user-attachments/assets/6cd67335-94f5-4dd6-a71d-f547b5c8e788)
 ![cyber_threat_classification_presentation2 pptx (8)](https://github.com/user-attachments/assets/631156ad-cc1a-4113-99a6-00ce29df4369)
 ![cyber_threat_classification_presentation2 pptx (9)](https://github.com/user-attachments/assets/7a5db173-ad0f-410f-80c0-ec0405dad339)
+![cyber_threat_classification_presentation2 pptx](https://github.com/user-attachments/assets/ab7cd65e-8032-4c0d-9d0b-4c3d2e46defe)
 ![cyber_threat_classification_presentation2 pptx (10)](https://github.com/user-attachments/assets/22a94fda-eb1f-4ef7-8817-0510a99b1b53)
