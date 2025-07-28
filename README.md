@@ -1,1 +1,12 @@
 # cyber-attack-classification
+![cyber_threat_classification_presentation2 pptx](https://github.com/user-attachments/assets/f42ab67b-fa10-4ac6-a3b7-7d00280fe80a)
+![cyber_threat_classification_presentation2 pptx (1)](https://github.com/user-attachments/assets/782718cc-e2ef-4830-b44b-f17c87e19d98)
+![cyber_threat_classification_presentation2 pptx (2)](https://github.com/user-attachments/assets/db3c9b8e-3822-4d65-b9c2-3d52af73d82b)
+![cyber_threat_classification_presentation2 pptx (3)](https://github.com/user-attachments/assets/4765c5f8-13a0-43a7-8048-e2b2a3f6eaa7)
+![cyber_threat_classification_presentation2 pptx (4)](https://github.com/user-attachments/assets/e4bbeb7a-ea70-44bd-946a-1743025d2f49)
+![cyber_threat_classification_presentation2 pptx (5)](https://github.com/user-attachments/assets/c1efa9f2-f701-41c3-982a-4638cfac6e17)
+![cyber_threat_classification_presentation2 pptx (6)](https://github.com/user-attachments/assets/eafd2088-a314-4b29-a37a-778986af8cd6)
+![cyber_threat_classification_presentation2 pptx (7)](https://github.com/user-attachments/assets/6cd67335-94f5-4dd6-a71d-f547b5c8e788)
+![cyber_threat_classification_presentation2 pptx (8)](https://github.com/user-attachments/assets/631156ad-cc1a-4113-99a6-00ce29df4369)
+![cyber_threat_classification_presentation2 pptx (9)](https://github.com/user-attachments/assets/7a5db173-ad0f-410f-80c0-ec0405dad339)
+![cyber_threat_classification_presentation2 pptx (10)](https://github.com/user-attachments/assets/22a94fda-eb1f-4ef7-8817-0510a99b1b53)
